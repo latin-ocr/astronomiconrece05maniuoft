@@ -1,0 +1,55 @@
+ASTRONOMICON V ix
+
+because G was not copied from L after christi had been corrected to
+
+ponti, therefore it was copied before : that is how we prove that G
+was copied from L.
+
+The case would be altered if there were truth in the assumption made by
+ΜΓ Thielscher pp. 112-5 and swallowed whole by van Wageningen, that the
+MS discovered by Poggio was the Manilian archetype and that L as well as M
+was directly copied from it. But there is none: it is a second hypothesis
+in aid of the first, and a false one. The number and magnitude of the differences
+between L and M make it incredible that they are sons of one sire, and it is
+easy to show that they are not. Some of their divergencies are manifestly
+progressive, and have a history behind them. In v 389 Manilius wrote anqui-
+tenens and the archetype had the corruption arquitenenffl but neither the
+arcetenens of L nor the et qui tenens of M came immediately from this t arcetenens
+came through arcitenens and et qni tenens probably through at qui tenens.
+In 1 163 the original saccata passed straight into the siccata of L, but into the
+fetata of M it passed through such stages as saecata and factata. At v 443,
+where M has the true reading molliter and L the corruption tollitur, we could
+guess, even if Ven. did not preserve mollitur, that this had been an earlier
+step on the downward way. The verse 111 7 is given by M in its true place and
+with its true reading, ⁴ non coniuratos reges Troiaque cadente ’ ; in L it stands
+between 37 and 38 with curatos and cadentes. The writer of L did not make all
+these changes: the transposition was an accident, the alteration cadentes
+was subsequent, consequential, and deliberate, the misinterpretation of
+{iurato-s was heedless and stupid. How, at 1 517, could the one scribe copy as
+:tutas uariam what the other copied as innariam exutam ¹? Who will believe
+that when the scribe of L twice, in 11 172 and 190, had mistaken the abbreviation
+of homini-s for oris, the scribe of M, ‘ ignorantissimus omnium uiuentium ³,
+twice expanded it correctly ⁸? or that he in the 15th century could decipher
+minor ibi teuit at IV 414, where L in the 11th could get no nearer than minoribus ’ἰ
+or that the verses IV 10—313‚ which L in the llth century found standing
+between 111 399 and 400, had returned to their proper place by the 15th century,
+or were restored to it by the illiterate copyist of M ‘2
+
+That G was not copied from L I shall prove by evidence of very
+different validity from Mr Thielscher’s; but before producing the
+whole of it I may as well decide the question at one stroke. 11 153 :
+
+L cernis ut aduersus redeundo surgat in arcum
+G cernis ut· aduersus surgat in arcum.
+
+G has a blank space just sufficient to hold redeundo. In L redeundo
+is as clearly written as any word in the verse ; it is as plain as print.
+It is also perfectly intelligible ; though that has no bearing on the
+question, since G is not one of those Mss, like Ven. and Vrb. 667,
+which omit words because of their unintelligibility. The case is clear :
+G was copied from a Ms in which redeundo was illegible. And there’s
+an end on’t : G is not a copy of L.
+
+L and G are not father and son but uncle and nephew. G was
+copied from a MS, I will call it γ, much resembling L, which had been
+
